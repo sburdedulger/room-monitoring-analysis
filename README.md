@@ -48,6 +48,11 @@ Sensors → Arduino → Serial (USB) → Python (log_sensor.py) → CSV → Pyth
 ![Hourly Summary](images/hourly_summary.png)
 ![Rain Sensor](images/rain_sensor.png)
 
+## Hardware setup
+
+![Breadboard wiring](images/hardware_1.jpg)
+![LCD display in action](images/hardware_2.jpg)
+
 ## Files
 
 - `room_data.ino` — Arduino sketch
