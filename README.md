@@ -50,8 +50,8 @@ Sensors → Arduino → Serial (USB) → Python (log_sensor.py) → CSV → Pyth
 
 ## Hardware setup
 
-![Breadboard wiring](images/hardware_1.jpg)
-![LCD display in action](images/hardware_2.jpg)
+![Breadboard wiring](images/hardware_1.jpeg)
+![LCD display in action](images/hardware_2.jpeg)
 
 ## Files
 
